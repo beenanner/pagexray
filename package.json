@@ -53,7 +53,7 @@
     "mocha": "^3.0.2"
   },
   "main": "./lib/index.js",
-  "bin": "./bin/index.js",
+  "bin": "./bin/pagexray.js",
   "dependencies": {
     "fast-stats": "0.0.3",
     "minimist": "1.2.0"
